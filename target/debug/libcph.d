@@ -1,0 +1,1 @@
+/Users/david9006/Docs/projects/cph_zed/target/debug/libcph.dylib: /Users/david9006/Docs/projects/cph_zed/src/commands/mod.rs /Users/david9006/Docs/projects/cph_zed/src/commands/test.rs /Users/david9006/Docs/projects/cph_zed/src/lib.rs /Users/david9006/Docs/projects/cph_zed/src/utils/companion.rs /Users/david9006/Docs/projects/cph_zed/src/utils/runner.rs

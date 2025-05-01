@@ -1,0 +1,25 @@
+id = "cph"
+name = "Competitive Programming Helper"
+version = "0.0.1"
+schema_version = 1
+authors = ["David9006"]
+description = "Helper for competitive programming: compile, test, and submit solutions"
+repository = "https://github.com/david9006/cph-zed"
+
+[extension]
+name = "cph"
+version = "0.0.1"
+rust-version = "1.70.0"
+
+[[commands]]
+name = "cph.test"
+title = "Run Test Cases"
+description = "Run test cases for the current file"
+key = "cmd+alt+t"
+function = "cph_test"
+
+[configuration]
+[configuration.companion_port]
+type = "integer"
+default = 27121
+description = "Port number for Competitive Companion to connect to"
