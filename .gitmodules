@@ -1,0 +1,3 @@
+[submodule "extensions/cph-zed"]
+	path = extensions/cph-zed
+	url = https://github.com/david9006/cph-zed.git
